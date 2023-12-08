@@ -1,27 +1,38 @@
 <!-- Início do README.md do GitHub -->
 
-<div style="text-align: center; padding: 30px; background-color: #f0f0f0; border-radius: 10px;">
-<h1 style="color: #be185d; font-family: 'Arial', sans-serif;">AfiterSeven </h1>
+<div style="text-align: center; padding: 50px; background-color: #f0f0f0; border-radius: 20px;">
+<h1 style="color: #14b8a6; font-family: 'Arial', sans-serif;">AfiterSeven </h1>
 <p style="font-size: 18px; color: #333;"> Oferecendo uma solução eficiente e segura para simplificar o processo de assinatura de documentos no ambiente corporativo o afiterSeven foi projetado para atender às necessidades específicas das empresas, nossa plataforma proporciona agilidade, conformidade e facilidade de uso.</p>
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
-   <div style="flex: 1; padding: 10px; background-color: #66cc66; border-radius: 8px; text-align: center;">
-      <img src="" alt="Logo da Minha Empresa">
+   <div style="flex: 1; padding: 10px; background-color: #666; border-radius: 8px; text-align: center;">
+      <img src="jsx.svg" alt="Logo da Minha Empresa">
    </div>
 </div>
 
-<h3 style="color: #ffff;">🚀 Tecnologias Principais </h3>
-<p style="color: #fff;">JavaScript, HTML, Node.js, React</p>
+## 
+<h3 style="color: #042f2e;">🚀 Tecnologias Principais </h3>
+  
+   <img src="node(2).svg" alt="nodejs">
+   
+   <img src="https://example.com/javascript.svg" alt="jsx"  width="100">
+
+   <img src="html.svg" alt="html">
+
  
-## 📞Contato
-**Site:** [www.empresa.com](https://www.empresa.com)
+## 
+<h3 style="color: #042f2e;">📞Contato</h3>
 
-**E-mail:** contato@empresa.com
+**Site:** (https://www.afterseven.com)
 
-**LinkedIn:** [Nome da Empresa no LinkedIn](https://www.linkedin.com/company/nome-da-empresa)
+**E-mail:** contato@afterseven.com
 
- ## 📱Redes Sociais
-  [Linkdin](https://Linkedin.com/afterseven)
+**LinkedIn:** [Afterseven](https://www.linkedin.com/company/afterseven)
+
+ ## 
+ <h3 style="color: #042f2e; ">📱Redes Sociais </h3>
+
+  [Linkedin](https://linkedin.com/afterseven)
   
   [Facebook](https://www.facebook.com/afterseven)
   
