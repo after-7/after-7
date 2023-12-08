@@ -13,19 +13,19 @@
 <h3 style="color: #ffff;">🚀 Tecnologias Principais </h3>
 <p style="color: #fff;">JavaScript, HTML, Node.js, React</p>
  
-## Contato
+## 📞Contato
 **Site:** [www.empresa.com](https://www.empresa.com)
 
 **E-mail:** contato@empresa.com
 
 **LinkedIn:** [Nome da Empresa no LinkedIn](https://www.linkedin.com/company/nome-da-empresa)
 
- ## Redes Sociais
-  [Twitter](https://twitter.com/nome-da-empresa)
+ ## 📱Redes Sociais
+  [Linkdin](https://Linkedin.com/afterseven)
   
-  [Facebook](https://www.facebook.com/nome-da-empresa)
+  [Facebook](https://www.facebook.com/afterseven)
   
-  [Instagram](https://www.instagram.com/nome-da-empresa)
+  [Instagram](https://www.instagram.com/afterseven)
   
 
 
