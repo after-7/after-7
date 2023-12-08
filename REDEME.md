@@ -6,8 +6,8 @@
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
    <div style="flex: 1; padding: 10px; background-color: #66cc66; border-radius: 8px; text-align: center;">
-     ![Logo da Minha Empresa](https://example.com/logo.png)
-     <img src="file:///C:/Users/Let%C3%ADcia/AppData/Local/Temp/862d2f20-dfb0-4815-98e5-2efc47d452a7_afterSeven.zip.2a7/png2svg/selo%20com%20fundo.svg" alt="Logo da Minha Empresa">
+     ![Logo da Minha Empresa](https://file:///C:/Users/Let%C3%ADcia/AppData/Local/Temp/862d2f20-dfb0-4815-98e5-2efc47d452a7_afterSeven.zip.2a7/png2svg/selo%20com%20fundo.svg)
+     <img src="" alt="Logo da Minha Empresa">
    </div>
 </div>
 
