@@ -13,11 +13,11 @@
 ## 
 <h3 style="color: #042f2e;">🚀 Tecnologias Principais </h3>
   
-   <img src="node(2).svg" alt="nodejs">
+   <img src="img/node.svg" alt="nodejs">
    
-   <img src="https://example.com/javascript.svg" alt="jsx"  width="100">
+   <img src="img/javascript.svg" alt="jsx"  width="100">
 
-   <img src="html.svg" alt="html">
+   <img src="img/html.svg" alt="html">
 
  
 ## 
