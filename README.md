@@ -6,18 +6,25 @@
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
    <div style="flex: 1; padding: 10px; background-color: #666; border-radius: 8px; text-align: center;">
-      <img src="jsx.svg" alt="Logo da Minha Empresa">
+      <img src="logo-effect.svg" alt="Logo AfterSeven">
    </div>
 </div>
 
 ## 
-<h3 style="color: #042f2e;">🚀 Tecnologias Principais </h3>
-  
+<h3 style="color: #042f2e;">🚀 Tecnologias Principais</h3>
+
+   <img src="img/android-logomark.svg" height="40px" alt="Android App">
+   <img src="img/apple-14.svg" height="40px" alt="iOS App">
+   <img src="img/html.svg" height="40px" alt="html">
+   <img src="img/tailwind-css-1.svg" height="40px" alt="Tailwind CSS">
+   <img src="img/javascript.svg" height="40px" alt="jsx"  width="100">
+   <img src="img/react-2.svg" height="40px" alt="reactJS">
+   <img src="img/socket-io.svg" height="40px" alt="Socket.io">
+   <img src="img/npm.svg" height="40px" alt="NPM Packages">
    <img src="img/node.svg" height="40px" alt="nodejs">
    
-   <img src="img/javascript.svg" height="40px" alt="jsx"  width="100">
 
-   <img src="img/html.svg" height="40px" alt="html">
+
 
  
 ## 
