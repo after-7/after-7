@@ -6,13 +6,13 @@
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
    <div style="flex: 1; padding: 10px; background-color: #666; border-radius: 8px; text-align: center;">
-      <img src="logo-effect.svg" alt="Logo AfterSeven">
+      <img src="img/logo-effect.svg" style="height: 120px; margin:0 auto;" alt="Logo AfterSeven">
    </div>
 </div>
 
-## 
-<h3 style="color: #042f2e;">🚀 Tecnologias Principais</h3>
-
+<div style="background-color:"#cdcdcd">
+   <h3 style="color: #042f2e;">🚀 Principais Tecnologias</h3>
+   ##
    <img src="img/android-logomark.svg" height="40px" alt="Android App">
    <img src="img/apple-14.svg" height="40px" alt="iOS App">
    <img src="img/html.svg" height="40px" alt="html">
@@ -23,7 +23,7 @@
    <img src="img/npm.svg" height="40px" alt="NPM Packages">
    <img src="img/node.svg" height="40px" alt="nodejs">
    
-
+</div>
 
 
  
